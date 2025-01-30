@@ -1,0 +1,15 @@
+Library management requirements include
+ *Functional requirements,
+Search: Search for books by title, author, 
+Issued and return: Issued and returned books by date and time
+Stock: Display the stock of all books in the library 
+Customer\User details: Store and retrieve information about library patrons, including their name and ID number 
+Calculate fines: Calculate fines and other functions 
+*Circulation management
+Track movement 
+Verify stock
+*System integration 
+Integrate with external systems
+*User interface design 
+User-friendly 
+Clean and organized
